@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "Makefile": "makefile",
+        "__locale": "cpp",
+        "ostream": "cpp",
+        "string": "cpp"
+    }
+}

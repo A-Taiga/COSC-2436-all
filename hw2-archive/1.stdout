@@ -1,0 +1,12 @@
+DUPLICATE FOUND REPLACING{linda}WITH{mindy}
+OUT OF ORDER [id:4534;grade:C;username:bot;score:100]
+DUPLICATE FOUND {john}
+REMOVED BY USERNAME {mindy}
+SORTING BY ID
+[id:1234;username:john;score:100;grade:A]
+[id:6612;username:nathan;score:67;grade:D]
+[id:6734;username:bob;score:79;grade:C]
+SIZE 3
+DESTRUCTOR
+Test case 1 time: 0.024037
+Desired test case 1 time interval: 0.005400 ~ 0.009800

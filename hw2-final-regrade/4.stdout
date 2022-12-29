@@ -1,0 +1,16 @@
+ADDED: [id:1234;username:r;score:85;grade:B]
+ADDED: [id:1235;username:w;score:59;grade:F]
+FOUND SAME USERNAME: r
+ADDED: [id:1566;username:n;score:75;grade:C]
+ADDED: [id:6564;username:t;score:82;grade:B]
+ADDED: [id:1353;username:s;score:82;grade:B]
+ADDED: [id:5346;username:m;score:64;grade:D]
+ADDED: [id:3465;username:i;score:60;grade:D]
+ADDED: [id:5663;username:v;score:98;grade:A]
+FOUND SAME USERNAME: t
+ADDED: [id:6546;username:a;score:43;grade:F]
+SORTING BY SCORE
+SORTING BY USERNAME
+8
+Test case 4 time: 0.003831
+Desired test case 4 time interval: 2.800000 ~ 5.200000

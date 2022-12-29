@@ -1,0 +1,13 @@
+SORTING BY SCORE
+MISSING
+DUPLICATE FOUND REPLACING{squirtle}WITH{squirtle}
+SORTING BY GRADE
+SORTING BY ID
+[id:2474;username:meowth;score:99;grade:A]
+[id:7583;username:eevee;score:92;grade:A]
+[id:9128;username:squirtle;score:89;grade:B]
+[id:9384;username:rattata;score:76;grade:C]
+SIZE 4
+DESTRUCTOR
+Test case 2 time: 0.028100
+Desired test case 2 time interval: 0.006200 ~ 0.011400

@@ -1,0 +1,16 @@
+ADDED: [id:4256;username:groot;score:85;grade:B]
+ADDED: [id:2375;username:steve;score:59;grade:F]
+ADDED: [id:8493;username:tony;score:95;grade:A]
+ADDED: [id:9374;username:wanda;score:75;grade:C]
+ADDED: [id:7346;username:janet;score:82;grade:B]
+ADDED: [id:8293;username:steven;score:82;grade:B]
+ADDED: [id:8374;username:hank;score:64;grade:D]
+ADDED: [id:8364;username:bruce;score:60;grade:D]
+ADDED: [id:7694;username:vision;score:98;grade:A]
+FOUND SAME USERNAME: hank
+ADDED: [id:3233;username:peter;score:43;grade:F]
+REMOVING BY GRADE: [id:2375;username:steve;score:59;grade:F]
+REMOVING BY GRADE: [id:3233;username:peter;score:43;grade:F]
+10
+Test case 3 time: 0.003856
+Desired test case 3 time interval: 2.800000 ~ 5.200000

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "Makefile": "makefile",
+        "exception": "cpp",
+        "variant": "cpp"
+    }
+}

@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/y2022/fall/cs2436/cosc078/extra/extra_10_1_3'
+let g:netrw_dirhist_2='/home/y2022/fall/cs2436/cosc078/extra'
+let g:netrw_dirhist_1='/home/y2022/fall/cs2436/cosc078/extra/extra_10_1_3'

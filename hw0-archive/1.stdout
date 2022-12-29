@@ -1,0 +1,4 @@
+File name for matrix A: input1.txt
+File name for matrix C: output1.txt
+Test case 1 time: 0.003814
+Desired test case 1 time interval: 0.005400 ~ 0.009800
